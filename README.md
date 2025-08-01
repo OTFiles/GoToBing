@@ -1,6 +1,7 @@
 # GoToBing
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![GitHub last commit](https://img.shields.io/github/last-commit/OTFiles/GoToBing)
+
 一个轻量级项目，提供快速跳转到必应搜索的Markdown链接。
 
 ##直接转跳
